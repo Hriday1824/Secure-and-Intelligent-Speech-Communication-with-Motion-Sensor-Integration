@@ -119,6 +119,3 @@ These metrics are displayed in the receiver UI to estimate decrypted audio quali
 - Encryption and authentication research  
 
 ---
-
-## Author
-Developed as a **Simulink-based encrypted speech communication system** with integrated motion sensing, real-time encryption, authentication, and signal quality assessment.
