@@ -1,0 +1,1 @@
+# Secure-and-Intelligent-Speech-Communication-with-Motion-Sensor-Integration
